@@ -3,21 +3,21 @@
     margin: 40px;
 }
 
-.MyCard .card {
+.MyCard.card {
     margin: 10px;
     width: 300px;
 }
-.MyCard .card img {
+.MyCard.card img {
     padding: 20px;
     border-radius: 24px;
 }
-.MyCard .card .card-body {
+.MyCard.card .card-body {
     text-align: center;
 
     display: flex;
     flex-direction: column;
 }
-.MyCard .card .badge {
+.MyCard.card .badge {
     margin-top: auto;
     width: 100%;
 }
